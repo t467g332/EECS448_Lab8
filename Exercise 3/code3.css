@@ -1,0 +1,31 @@
+p
+{
+ background-color: Bisque;
+ color: black;
+ font-family: serif;
+ font-size: 12pt;
+}
+p.halloween
+{
+ background-color: black;
+ color: orange;
+ font-family: arial;
+ font-size: 16pt;
+}
+body
+{
+ background-image: url(background.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+a
+{
+ background-color: rgb(201, 201, 228);
+ color: rgb(61, 4, 4);
+}
+a:hover
+{
+ background-color: rgb(94, 224, 148);
+ color: rgb(100, 8, 80)
+}
